@@ -1,4 +1,4 @@
-baseURL = "https://nicolas-barriere.github.io/niico/"
+baseURL = "niico.fr"
 languageCode = "en-us"
 title = "Mon site fait maison"
 theme = "hello-friend-ng"
