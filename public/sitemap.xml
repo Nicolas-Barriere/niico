@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:55456/</loc>
+    <loc>http://localhost:55456/niico/</loc>
     <lastmod>2025-04-13T00:54:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:55456/posts/</loc>
+    <loc>http://localhost:55456/niico/posts/</loc>
     <lastmod>2025-04-13T00:54:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:55456/posts/first/</loc>
+    <loc>http://localhost:55456/niico/posts/first/</loc>
     <lastmod>2025-04-13T00:54:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:55456/about/</loc>
+    <loc>http://localhost:55456/niico/about/</loc>
   </url><url>
-    <loc>http://localhost:55456/blog/</loc>
+    <loc>http://localhost:55456/niico/blog/</loc>
   </url><url>
-    <loc>http://localhost:55456/series/</loc>
+    <loc>http://localhost:55456/niico/series/</loc>
   </url><url>
-    <loc>http://localhost:55456/tags/</loc>
+    <loc>http://localhost:55456/niico/tags/</loc>
   </url>
 </urlset>
