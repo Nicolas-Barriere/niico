@@ -1,4 +1,52 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Tech portfolio</title><link>https://niico.fr/posts/</link><description>Recent content in Posts on Tech portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate><atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Premier essai avec Ananke</title><link>https://niico.fr/posts/first/</link><pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate><guid>https://niico.fr/posts/first/</guid><description>Premier essai avec Ananke Et voici mon premier article avec un thème Hugo préconfiguré !</description><content type="html"><![CDATA[<hr>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Tech portfolio</title><link>https://niico.fr/posts/</link><description>Recent content in Posts on Tech portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test rendu LaTeX avec KaTeX</title><link>https://niico.fr/posts/math-test/</link><pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><guid>https://niico.fr/posts/math-test/</guid><description>Voici quelques formules mathématiques en LaTeX rendues avec KaTeX.
+🔸 Formule simple Inline : $E = mc^2$
+Bloc centré :
+$$ E = mc^2 $$
+🔸 Intégrale gaussienne $$ \int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi} $$
+🔸 Équation de Bayes $$ P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)} $$
+🔸 Système d&amp;rsquo;équations $$ \begin{cases} ax + by = c \ dx + ey = f \end{cases} $$
+🔸 Matrice $$ \begin{bmatrix} 1 &amp;amp; 2 &amp;amp; 3 \ 4 &amp;amp; 5 &amp;amp; 6 \end{bmatrix} $$</description><content type="html"><![CDATA[<p>Voici quelques formules mathématiques en LaTeX rendues avec <strong>KaTeX</strong>.</p>
+<hr>
+<h2 id="-formule-simple">🔸 Formule simple</h2>
+<p>Inline : $E = mc^2$</p>
+<p>Bloc centré :</p>
+<p>$$
+E = mc^2
+$$</p>
+<hr>
+<h2 id="-intégrale-gaussienne">🔸 Intégrale gaussienne</h2>
+<p>$$
+\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}
+$$</p>
+<hr>
+<h2 id="-équation-de-bayes">🔸 Équation de Bayes</h2>
+<p>$$
+P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
+$$</p>
+<hr>
+<h2 id="-système-déquations">🔸 Système d&rsquo;équations</h2>
+<p>$$
+\begin{cases}
+ax + by = c \
+dx + ey = f
+\end{cases}
+$$</p>
+<hr>
+<h2 id="-matrice">🔸 Matrice</h2>
+<p>$$
+\begin{bmatrix}
+1 &amp; 2 &amp; 3 \
+4 &amp; 5 &amp; 6
+\end{bmatrix}
+$$</p>
+<hr>
+<h2 id="-somme-et-produit">🔸 Somme et produit</h2>
+<p>$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+\quad\text{et}\quad
+\prod_{i=1}^{n} i = n!
+$$</p>
+]]></content></item><item><title>Premier essai avec Ananke</title><link>https://niico.fr/posts/first/</link><pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate><guid>https://niico.fr/posts/first/</guid><description>Premier essai avec Ananke Et voici mon premier article avec un thème Hugo préconfiguré !</description><content type="html"><![CDATA[<hr>
 <h2 id="premier-essai-avec-ananke">Premier essai avec Ananke</h2>
 <p>Et voici mon premier article avec un thème Hugo préconfiguré !</p>
 ]]></content></item></channel></rss>
