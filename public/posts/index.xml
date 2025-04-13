@@ -9,5 +9,20 @@
         <lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate>
         <atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml" />
         
+        <item>
+            <title>Premier essai avec Ananke</title>
+            <link>https://niico.fr/posts/first/</link>
+            <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
+            
+            <guid>https://niico.fr/posts/first/</guid>
+            <description>&lt;hr&gt;
+&lt;h2 id=&#34;premier-essai-avec-ananke&#34;&gt;Premier essai avec Ananke&lt;/h2&gt;
+&lt;p&gt;Et voici mon premier article avec un thème Hugo préconfiguré !&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<hr>
+<h2 id="premier-essai-avec-ananke">Premier essai avec Ananke</h2>
+<p>Et voici mon premier article avec un thème Hugo préconfiguré !</p>
+]]></content>
+        </item>
+        
     </channel>
 </rss>
