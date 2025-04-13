@@ -1,28 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Message 2</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://niico.fr/posts/</link>
         <description>Recent content in Posts on Message 2</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Premier essai avec Ananke</title>
-            <link>http://localhost:1313/posts/first/</link>
-            <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
-            
-            <guid>http://localhost:1313/posts/first/</guid>
-            <description>&lt;hr&gt;
-&lt;h2 id=&#34;premier-essai-avec-ananke&#34;&gt;Premier essai avec Ananke&lt;/h2&gt;
-&lt;p&gt;Et voici mon premier article avec un thème Hugo préconfiguré !&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<hr>
-<h2 id="premier-essai-avec-ananke">Premier essai avec Ananke</h2>
-<p>Et voici mon premier article avec un thème Hugo préconfiguré !</p>
-]]></content>
-        </item>
+        <atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml" />
         
     </channel>
 </rss>

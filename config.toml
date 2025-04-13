@@ -1,4 +1,4 @@
-baseURL = "niico.fr"
+baseURL = "https://niico.fr/"
 languageCode = "en-us"
 title = "Mon site fait maison"
 theme = "hello-friend-ng"
