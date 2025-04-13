@@ -2,26 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Tech portfolio</title>
-    <link>https://niico.fr/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Accueil on Tech portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate>
-    <atom:link href="https://niico.fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test rendu LaTeX avec KaTeX</title>
+      <link>http://localhost:1313/posts/math-test/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/math-test/</guid>
+      <description>&lt;p&gt;Voici quelques formules mathématiques en LaTeX rendues avec &lt;strong&gt;KaTeX&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-formule-simple&#34;&gt;🔸 Formule simple&lt;/h2&gt;&#xA;&lt;p&gt;Inline : $E = mc^2$&lt;/p&gt;&#xA;&lt;p&gt;Bloc centré :&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;E = mc^2&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-intégrale-gaussienne&#34;&gt;🔸 Intégrale gaussienne&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-équation-de-bayes&#34;&gt;🔸 Équation de Bayes&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-système-déquations&#34;&gt;🔸 Système d&amp;rsquo;équations&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\begin{cases}&#xA;ax + by = c \&#xA;dx + ey = f&#xA;\end{cases}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-matrice&#34;&gt;🔸 Matrice&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\begin{bmatrix}&#xA;1 &amp;amp; 2 &amp;amp; 3 \&#xA;4 &amp;amp; 5 &amp;amp; 6&#xA;\end{bmatrix}&#xA;$$&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Premier essai avec Ananke</title>
-      <link>https://niico.fr/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
-      <guid>https://niico.fr/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;premier-essai-avec-ananke&#34;&gt;Premier essai avec Ananke&lt;/h2&gt;&#xA;&lt;p&gt;Et voici mon premier article avec un thème Hugo préconfiguré !&lt;/p&gt;</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>https://niico.fr/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://niico.fr/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Je suis un passionné de hardware, d&amp;rsquo;IA et d&amp;rsquo;entrepreneuriat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;$$&#xA;\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}&#xA;$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Linkedin : &lt;a href=&#34;https://www.linkedin.com/in/nicolas-barri%C3%A8re/&#34;&gt;Nicolas Barrière&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,20 +1,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Tech portfolio</title>
-        <link>https://niico.fr/posts/</link>
+        <link>http://localhost:59520/posts/</link>
         <description>Recent content in Posts on Tech portfolio</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate>
-        <atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://localhost:59520/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Test rendu LaTeX avec KaTeX</title>
+            <link>http://localhost:59520/posts/math-test/</link>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:59520/posts/math-test/</guid>
+            <description>&lt;p&gt;Voici quelques formules mathématiques en LaTeX rendues avec &lt;strong&gt;KaTeX&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-formule-simple&#34;&gt;🔸 Formule simple&lt;/h2&gt;
+&lt;p&gt;Inline : $E = mc^2$&lt;/p&gt;
+&lt;p&gt;Bloc centré :&lt;/p&gt;
+&lt;p&gt;$$
+E = mc^2
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-intégrale-gaussienne&#34;&gt;🔸 Intégrale gaussienne&lt;/h2&gt;
+&lt;p&gt;$$
+\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-équation-de-bayes&#34;&gt;🔸 Équation de Bayes&lt;/h2&gt;
+&lt;p&gt;$$
+P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-système-déquations&#34;&gt;🔸 Système d&amp;rsquo;équations&lt;/h2&gt;
+&lt;p&gt;$$
+\begin{cases}
+ax + by = c \
+dx + ey = f
+\end{cases}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-matrice&#34;&gt;🔸 Matrice&lt;/h2&gt;
+&lt;p&gt;$$
+\begin{bmatrix}
+1 &amp;amp; 2 &amp;amp; 3 \
+4 &amp;amp; 5 &amp;amp; 6
+\end{bmatrix}
+$$&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Voici quelques formules mathématiques en LaTeX rendues avec <strong>KaTeX</strong>.</p>
+<hr>
+<h2 id="-formule-simple">🔸 Formule simple</h2>
+<p>Inline : $E = mc^2$</p>
+<p>Bloc centré :</p>
+<p>$$
+E = mc^2
+$$</p>
+<hr>
+<h2 id="-intégrale-gaussienne">🔸 Intégrale gaussienne</h2>
+<p>$$
+\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}
+$$</p>
+<hr>
+<h2 id="-équation-de-bayes">🔸 Équation de Bayes</h2>
+<p>$$
+P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
+$$</p>
+<hr>
+<h2 id="-système-déquations">🔸 Système d&rsquo;équations</h2>
+<p>$$
+\begin{cases}
+ax + by = c \
+dx + ey = f
+\end{cases}
+$$</p>
+<hr>
+<h2 id="-matrice">🔸 Matrice</h2>
+<p>$$
+\begin{bmatrix}
+1 &amp; 2 &amp; 3 \
+4 &amp; 5 &amp; 6
+\end{bmatrix}
+$$</p>
+<hr>
+<h2 id="-somme-et-produit">🔸 Somme et produit</h2>
+<p>$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+\quad\text{et}\quad
+\prod_{i=1}^{n} i = n!
+$$</p>
+]]></content>
+        </item>
         
         <item>
             <title>Premier essai avec Ananke</title>
-            <link>https://niico.fr/posts/first/</link>
+            <link>http://localhost:59520/posts/first/</link>
             <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
             
-            <guid>https://niico.fr/posts/first/</guid>
+            <guid>http://localhost:59520/posts/first/</guid>
             <description>&lt;hr&gt;
 &lt;h2 id=&#34;premier-essai-avec-ananke&#34;&gt;Premier essai avec Ananke&lt;/h2&gt;
 &lt;p&gt;Et voici mon premier article avec un thème Hugo préconfiguré !&lt;/p&gt;</description>
