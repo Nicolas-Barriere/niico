@@ -1,13 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Tech portfolio</title>
-        <link>https://niico.fr/posts/</link>
-        <description>Recent content in Posts on Tech portfolio</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate>
-        <atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-    </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Tech portfolio</title><link>https://niico.fr/posts/</link><description>Recent content in Posts on Tech portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate><atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Premier essai avec Ananke</title><link>https://niico.fr/posts/first/</link><pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate><guid>https://niico.fr/posts/first/</guid><description>Premier essai avec Ananke Et voici mon premier article avec un thème Hugo préconfiguré !</description><content type="html"><![CDATA[<hr>
+<h2 id="premier-essai-avec-ananke">Premier essai avec Ananke</h2>
+<p>Et voici mon premier article avec un thème Hugo préconfiguré !</p>
+]]></content></item></channel></rss>
