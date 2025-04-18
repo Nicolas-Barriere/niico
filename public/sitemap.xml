@@ -2,28 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59520/</loc>
+    <loc>https://niico.fr/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59520/posts/</loc>
+    <loc>https://niico.fr/posts/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59520/posts/math-test/</loc>
+    <loc>https://niico.fr/posts/math-test/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59520/posts/first/</loc>
+    <loc>https://niico.fr/projects/</loc>
     <lastmod>2025-04-13T00:54:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:59520/about/</loc>
+    <loc>https://niico.fr/projects/thissite/</loc>
+    <lastmod>2025-04-13T00:54:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:59520/projects/</loc>
+    <loc>https://niico.fr/posts/first/</loc>
+    <lastmod>2025-04-13T00:54:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:59520/blog/</loc>
+    <loc>https://niico.fr/about/</loc>
   </url><url>
-    <loc>http://localhost:59520/contact/</loc>
+    <loc>https://niico.fr/blog/</loc>
   </url><url>
-    <loc>http://localhost:59520/series/</loc>
+    <loc>https://niico.fr/contact/</loc>
   </url><url>
-    <loc>http://localhost:59520/tags/</loc>
+    <loc>https://niico.fr/series/</loc>
+  </url><url>
+    <loc>https://niico.fr/tags/</loc>
   </url>
 </urlset>

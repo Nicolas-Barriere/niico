@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Tech portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://niico.fr/</link>
     <description>Recent content in Accueil on Tech portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://niico.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test rendu LaTeX avec KaTeX</title>
-      <link>http://localhost:1313/posts/math-test/</link>
+      <link>https://niico.fr/posts/math-test/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-test/</guid>
-      <description>&lt;p&gt;Voici quelques formules mathématiques en LaTeX rendues avec &lt;strong&gt;KaTeX&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-formule-simple&#34;&gt;🔸 Formule simple&lt;/h2&gt;&#xA;&lt;p&gt;Inline : $E = mc^2$&lt;/p&gt;&#xA;&lt;p&gt;Bloc centré :&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;E = mc^2&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-intégrale-gaussienne&#34;&gt;🔸 Intégrale gaussienne&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-équation-de-bayes&#34;&gt;🔸 Équation de Bayes&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-système-déquations&#34;&gt;🔸 Système d&amp;rsquo;équations&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\begin{cases}&#xA;ax + by = c \&#xA;dx + ey = f&#xA;\end{cases}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-matrice&#34;&gt;🔸 Matrice&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\begin{bmatrix}&#xA;1 &amp;amp; 2 &amp;amp; 3 \&#xA;4 &amp;amp; 5 &amp;amp; 6&#xA;\end{bmatrix}&#xA;$$&lt;/p&gt;</description>
+      <guid>https://niico.fr/posts/math-test/</guid>
+      <description>&lt;p&gt;Voici quelques formules mathématiques en LaTeX rendues avec &lt;strong&gt;KaTeX&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-formule-simple&#34;&gt;🔸 Formule simple&lt;/h2&gt;&#xA;&lt;p&gt;Inline : $E = mc^2$&lt;/p&gt;&#xA;&lt;p&gt;Bloc centré :&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;E = mc^2&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-intégrale-gaussienne&#34;&gt;🔸 Intégrale gaussienne&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-équation-de-bayes&#34;&gt;🔸 Équation de Bayes&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}&#xA;$$&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-système-déquations&#34;&gt;🔸 Système d&amp;rsquo;équations&lt;/h2&gt;&#xA;&lt;p&gt;$$&#xA;\displaystyle&#xA;\begin{cases}&#xA;x + y = 1 \&#xA;2x - y = 3&#xA;\end{cases}&#xA;$$&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;$$&#xA;\begin{bmatrix}&#xA;1 &amp;amp; 2 \\&#xA;3 &amp;amp; 4&#xA;\end{bmatrix}&#xA;$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NearPrint3D</title>
+      <link>https://niico.fr/projects/thissite/</link>
+      <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
+      <guid>https://niico.fr/projects/thissite/</guid>
+      <description>&lt;h1 id=&#34;nearprint3d&#34;&gt;NearPrint3D&lt;/h1&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Le but de ce projet était de créer une marketplace pour permettre aux particuliers de proposer des services d&amp;rsquo;impression 3D à d&amp;rsquo;autres particuliers.&#xA;La stack technique était Laravel + Stripe Connect + Eloquent ORM&lt;/p&gt;&#xA;&lt;p&gt;Vous pouvez voir le code source de mon projet sur &lt;a href=&#34;https://github.com/Nico-fstyle/nearprintv1&#34;&gt;GitHub ici&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/workflow/status/monutilisateur/monprojet/CI&#34; alt=&#34;Build Status&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;où-en-est-le-projet&#34;&gt;Où en est le projet&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai arrêté ce projet lorsque je suis entré en prépa et je ne compte pas le reprendre&lt;/p&gt;</description>
     </item>
     <item>
       <title>Premier essai avec Ananke</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://niico.fr/posts/first/</link>
       <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://niico.fr/posts/first/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;premier-essai-avec-ananke&#34;&gt;Premier essai avec Ananke&lt;/h2&gt;&#xA;&lt;p&gt;Et voici mon premier article avec un thème Hugo préconfiguré !&lt;/p&gt;</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://niico.fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Je suis un passionné de hardware, d&amp;rsquo;IA et d&amp;rsquo;entrepreneuriat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>À propos</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;$$&#xA;\int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi}&#xA;$$&lt;/p&gt;</description>
+      <guid>https://niico.fr/about/</guid>
+      <description>&lt;p&gt;Hello !&#xA;Actuellement en école d&amp;rsquo;ingé à Paris, je compte partager des projets sur ce blog.&#xA;N&amp;rsquo;hésitez pas à me contacter !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://niico.fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Linkedin : &lt;a href=&#34;https://www.linkedin.com/in/nicolas-barri%C3%A8re/&#34;&gt;Nicolas Barrière&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://niico.fr/contact/</guid>
+      <description>&lt;p&gt;Feel free to contact me !&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:nicolas.barriere27@gmail.com&#34;&gt;nicolas.barriere27@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/nicolas-barri%C3%A8re/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Nicolas-Barriere/&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://niico.fr/files/cv-nicolas-barriere.pdf&#34;&gt;My CV (pdf)&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

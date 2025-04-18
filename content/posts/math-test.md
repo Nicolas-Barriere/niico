@@ -40,11 +40,23 @@ $$
 ## 🔸 Système d'équations
 
 $$
+\displaystyle
 \begin{cases}
-ax + by = c \\
-dx + ey = f
+x + y = 1 \\
+2x - y = 3
 \end{cases}
 $$
+
+<div>
+
+$$
+\begin{bmatrix}
+1 & 2 \\\
+3 & 4
+\end{bmatrix}
+$$
+
+</div>
 
 ---
 

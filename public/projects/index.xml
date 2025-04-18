@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mes Projets on Tech portfolio</title>
+    <link>https://niico.fr/projects/</link>
+    <description>Recent content in Mes Projets on Tech portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 13 Apr 2025 00:54:14 +0200</lastBuildDate>
+    <atom:link href="https://niico.fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NearPrint3D</title>
+      <link>https://niico.fr/projects/thissite/</link>
+      <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
+      <guid>https://niico.fr/projects/thissite/</guid>
+      <description>&lt;h1 id=&#34;nearprint3d&#34;&gt;NearPrint3D&lt;/h1&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Le but de ce projet était de créer une marketplace pour permettre aux particuliers de proposer des services d&amp;rsquo;impression 3D à d&amp;rsquo;autres particuliers.&#xA;La stack technique était Laravel + Stripe Connect + Eloquent ORM&lt;/p&gt;&#xA;&lt;p&gt;Vous pouvez voir le code source de mon projet sur &lt;a href=&#34;https://github.com/Nico-fstyle/nearprintv1&#34;&gt;GitHub ici&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/workflow/status/monutilisateur/monprojet/CI&#34; alt=&#34;Build Status&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;où-en-est-le-projet&#34;&gt;Où en est le projet&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai arrêté ce projet lorsque je suis entré en prépa et je ne compte pas le reprendre&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

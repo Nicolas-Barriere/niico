@@ -1,0 +1,22 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/projects.css">
+
+<section class="timeline-wrapper">
+    <div class="timeline-line"></div>
+    <div class="timeline-arrow">↑</div>
+
+    {{ $i := 0 }}
+    {{ range .Pages.ByDate.Reverse }}
+    <div class="timeline-item {{ if modBool $i 2 }}left{{ else }}right{{ end }}">
+        <div class="timeline-card">
+            <h2>{{ .Title }}</h2>
+            <small>{{ .Date.Format "Jan 2006" }}</small>
+            <p>{{ .Params.summary }}</p>
+            <a class="timeline-link" href="{{ .RelPermalink }}">Voir le projet →</a>
+        </div>
+    </div>
+    {{ $i = add $i 1 }}
+    {{ end }}
+</section>
+
+{{ end }}

@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Tech portfolio</title>
-        <link>http://localhost:59520/posts/</link>
+        <link>https://niico.fr/posts/</link>
         <description>Recent content in Posts on Tech portfolio</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-        <atom:link href="http://localhost:59520/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://niico.fr/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Test rendu LaTeX avec KaTeX</title>
-            <link>http://localhost:59520/posts/math-test/</link>
+            <link>https://niico.fr/posts/math-test/</link>
             <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:59520/posts/math-test/</guid>
+            <guid>https://niico.fr/posts/math-test/</guid>
             <description>&lt;p&gt;Voici quelques formules mathématiques en LaTeX rendues avec &lt;strong&gt;KaTeX&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-formule-simple&#34;&gt;🔸 Formule simple&lt;/h2&gt;
@@ -36,17 +36,17 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-système-déquations&#34;&gt;🔸 Système d&amp;rsquo;équations&lt;/h2&gt;
 &lt;p&gt;$$
+\displaystyle
 \begin{cases}
-ax + by = c \
-dx + ey = f
+x + y = 1 \
+2x - y = 3
 \end{cases}
 $$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-matrice&#34;&gt;🔸 Matrice&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;$$
 \begin{bmatrix}
-1 &amp;amp; 2 &amp;amp; 3 \
-4 &amp;amp; 5 &amp;amp; 6
+1 &amp;amp; 2 \\
+3 &amp;amp; 4
 \end{bmatrix}
 $$&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Voici quelques formules mathématiques en LaTeX rendues avec <strong>KaTeX</strong>.</p>
@@ -70,11 +70,20 @@ $$</p>
 <hr>
 <h2 id="-système-déquations">🔸 Système d&rsquo;équations</h2>
 <p>$$
+\displaystyle
 \begin{cases}
-ax + by = c \
-dx + ey = f
+x + y = 1 \
+2x - y = 3
 \end{cases}
 $$</p>
+<!-- raw HTML omitted -->
+<p>$$
+\begin{bmatrix}
+1 &amp; 2 \\
+3 &amp; 4
+\end{bmatrix}
+$$</p>
+<!-- raw HTML omitted -->
 <hr>
 <h2 id="-matrice">🔸 Matrice</h2>
 <p>$$
@@ -95,10 +104,10 @@ $$</p>
         
         <item>
             <title>Premier essai avec Ananke</title>
-            <link>http://localhost:59520/posts/first/</link>
+            <link>https://niico.fr/posts/first/</link>
             <pubDate>Sun, 13 Apr 2025 00:54:14 +0200</pubDate>
             
-            <guid>http://localhost:59520/posts/first/</guid>
+            <guid>https://niico.fr/posts/first/</guid>
             <description>&lt;hr&gt;
 &lt;h2 id=&#34;premier-essai-avec-ananke&#34;&gt;Premier essai avec Ananke&lt;/h2&gt;
 &lt;p&gt;Et voici mon premier article avec un thème Hugo préconfiguré !&lt;/p&gt;</description>
