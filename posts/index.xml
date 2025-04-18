@@ -4,8 +4,8 @@ Bloc centré :
 $$ E = mc^2 $$
 🔸 Intégrale gaussienne $$ \int_{-\infty}^{\infty} e^{-x^2} , dx = \sqrt{\pi} $$
 🔸 Équation de Bayes $$ P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)} $$
-🔸 Système d&amp;rsquo;équations $$ \begin{cases} ax + by = c \ dx + ey = f \end{cases} $$
-🔸 Matrice $$ \begin{bmatrix} 1 &amp;amp; 2 &amp;amp; 3 \ 4 &amp;amp; 5 &amp;amp; 6 \end{bmatrix} $$</description><content type="html"><![CDATA[<p>Voici quelques formules mathématiques en LaTeX rendues avec <strong>KaTeX</strong>.</p>
+🔸 Système d&amp;rsquo;équations $$ \displaystyle \begin{cases} x + y = 1 \ 2x - y = 3 \end{cases} $$
+$$ \begin{bmatrix} 1 &amp;amp; 2 \\ 3 &amp;amp; 4 \end{bmatrix} $$</description><content type="html"><![CDATA[<p>Voici quelques formules mathématiques en LaTeX rendues avec <strong>KaTeX</strong>.</p>
 <hr>
 <h2 id="-formule-simple">🔸 Formule simple</h2>
 <p>Inline : $E = mc^2$</p>
@@ -26,11 +26,20 @@ $$</p>
 <hr>
 <h2 id="-système-déquations">🔸 Système d&rsquo;équations</h2>
 <p>$$
+\displaystyle
 \begin{cases}
-ax + by = c \
-dx + ey = f
+x + y = 1 \
+2x - y = 3
 \end{cases}
 $$</p>
+<!-- raw HTML omitted -->
+<p>$$
+\begin{bmatrix}
+1 &amp; 2 \\
+3 &amp; 4
+\end{bmatrix}
+$$</p>
+<!-- raw HTML omitted -->
 <hr>
 <h2 id="-matrice">🔸 Matrice</h2>
 <p>$$
