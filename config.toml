@@ -73,6 +73,12 @@ pagination.paperSize = 10
     weight = 3
 
   [[menu.main]]
+    identifier = "knowledge"
+    name = "Knowledge"
+    url = "/knowledge/"
+    weight = 3
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
