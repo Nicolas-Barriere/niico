@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-Feel free to contact me !
+N'hésitez pas à me contacter:
 
 [nicolas.barriere27@gmail.com](mailto:nicolas.barriere27@gmail.com)
 
